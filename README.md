@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brittany! <br/><a href="https://github.com/BrittanyBaggett">Cybersecurity Professional</a>
 
-<h2> Software Development Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 - <b>Python</b>
 
 
