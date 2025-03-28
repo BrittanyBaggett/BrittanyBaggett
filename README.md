@@ -1,5 +1,5 @@
 # Hi, I'm Brittany!  
-[🚀 Cybersecurity Professional]
+🚀 Cybersecurity Professional
 
 ## ⚡ Cybersecurity Projects:
 **Python**  
