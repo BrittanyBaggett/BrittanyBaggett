@@ -1,7 +1,8 @@
 <h1>Hi, I'm Brittany! <br/><a href="https://github.com/BrittanyBaggett">Cybersecurity Professional</a>
 
 <h2> :zap:Cybersecurity Projects:</h2>
-- <b>Python</b>
+<b>Python<br / >
+[Encryption and Decryption](https://github.com/BrittanyBaggett/EncryptionDecryption)
 
 <h2> :books: Education:</h2>
 - <b>Bachelor of Science in Cyber Security and Information Assurance <br / >
