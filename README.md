@@ -1,5 +1,5 @@
 # Hi, I'm Brittany!  
-[Cybersecurity Professional](https://github.com/BrittanyBaggett)
+[🚀 Cybersecurity Professional]
 
 ## ⚡ Cybersecurity Projects:
 **Python**  
@@ -13,7 +13,7 @@
 **SOC Analyst - Cytellix**  
 *Description*
 
-## 🍀 Certifications:
+## 🏆 Certifications  
 - **CompTIA Security+**  
 - **CompTIA PenTest+**  
 - **CompTIA CySA+**  
