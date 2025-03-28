@@ -1,29 +1,27 @@
-<h1>Hi, I'm Brittany! <br/><a href="https://github.com/BrittanyBaggett">Cybersecurity Professional</a>
+# Hi, I'm Brittany!  
+[Cybersecurity Professional](https://github.com/BrittanyBaggett)
 
-<h2> :zap:Cybersecurity Projects:</h2>
-<b>Python<br / >
+## ⚡ Cybersecurity Projects:
+**Python**  
 [Encryption and Decryption](https://github.com/BrittanyBaggett/EncryptionDecryption)
 
-<h2> :books: Education:</h2>
-- <b>Bachelor of Science in Cyber Security and Information Assurance <br / >
-</b> Western Governors University | Salt Lake City, UT</b> 
+## 📚 Education:
+- **Bachelor of Science in Cybersecurity and Information Assurance**  
+  Western Governors University | Salt Lake City, UT  
 
-<h2> :cyclone: Professional Experience:</h2>
-<b>SOC Analyst - Cytellix<br / >
-</b>Description</b> 
+## 🌪️ Professional Experience:
+**SOC Analyst - Cytellix**  
+*Description*
 
-<h2> :four_leaf_clover: Certifications:</h2>
-- <b>CompTIA Security + <br / >
-- <b>CompTIA PenTest +<br / >
-- <b>CompTIA CySA +<br / >
-- <b>CompTIA Project +<br / >
-- <b>CompTIA Network +<br / >
-- <b>CompTIA A +<br / >
-- <b>LPI Linux Essentials <br / >
-- <b>ISC2 SSCP </b>
+## 🍀 Certifications:
+- **CompTIA Security+**  
+- **CompTIA PenTest+**  
+- **CompTIA CySA+**  
+- **CompTIA Project+**  
+- **CompTIA Network+**  
+- **CompTIA A+**  
+- **LPI Linux Essentials**  
+- **ISC2 SSCP**  
 
-<h2> :sparkles: Connect with me:</h2>
-
-[<img align="left" alt="BrittanyBaggett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/brittany-baggett-
+## ✨ Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brittany-baggett/)
