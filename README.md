@@ -2,8 +2,6 @@
 🚀 Cybersecurity Professional
 
 ## ⚡ Cybersecurity Projects:
-**Python**  
-[Encryption and Decryption](https://github.com/BrittanyBaggett/EncryptionDecryption)
 
 ## 📚 Education:
 - **Bachelor of Science in Cybersecurity and Information Assurance**  
