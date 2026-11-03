@@ -26,7 +26,7 @@
 - **CompTIA CySA+**  
 - **CompTIA Project+**  
 - **CompTIA Network+**  
-- **[CompTIA A+](https://www.credly.com/earner/earned/badge/27472f3a-e2aa-4ca6-ab6c-70bdd09e491f)**  
+- **[CompTIA A+](https://www.credly.com/badges/27472f3a-e2aa-4ca6-ab6c-70bdd09e491f/public_url)**  
 - **LPI Linux Essentials**  
 - **ISC2 SSCP**  
 
