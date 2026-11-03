@@ -2,6 +2,7 @@
 🚀 Cybersecurity Professional
 
 ## ⚡ Cybersecurity Projects:
+[SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) — Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
 
 ## 📚 Education:
 - **Bachelor of Science in Cybersecurity and Information Assurance**  
