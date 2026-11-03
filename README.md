@@ -23,7 +23,7 @@
 ## 🏆 Certifications  
 - **CompTIA Security+**  
 - **CompTIA PenTest+**  
-- **CompTIA CySA+**  
+- **[CompTIA CySA+](https://www.credly.com/badges/60cc2950-756a-491f-8526-921c74a598a5/public_url)**  
 - **CompTIA Project+**  
 - **CompTIA Network+**  
 - **[CompTIA A+](https://www.credly.com/badges/27472f3a-e2aa-4ca6-ab6c-70bdd09e491f/public_url)**  
