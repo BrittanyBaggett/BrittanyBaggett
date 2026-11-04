@@ -5,9 +5,10 @@
 [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) — Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
 
 ## 📚 Education:
--**Master of Science in Cybersecurity and Information Assurance (In Progress)**  
+**Master of Science in Cybersecurity and Information Assurance (In Progress)**  
   Western Governors University | Salt Lake City, UT  
-- **Bachelor of Science in Cybersecurity and Information Assurance**  
+
+**Bachelor of Science in Cybersecurity and Information Assurance**  
   Western Governors University | Salt Lake City, UT  
 
 ## 🌪️ Professional Experience:
