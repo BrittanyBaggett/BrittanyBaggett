@@ -3,6 +3,7 @@
 
 ## ⚡ Cybersecurity Projects:
 [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) — Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
+[Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git)
 
 ## 🛠️ Technical Skills
 - **SIEM & Security Monitoring**: Microsoft Sentinel, IBM QRadar, Splunk
