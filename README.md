@@ -4,7 +4,7 @@
 ## ⚡ Cybersecurity Projects:
 [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) — Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 - **SIEM & Security Monitoring**: Microsoft Sentinel, IBM QRadar, Splunk
 - **Endpoint Security**: Microsoft Defender, SentinelOne, Carbon Black
 - **Scripting & Query Languages**: Python (learning), Kusto Query Language (KQL)
