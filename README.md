@@ -7,7 +7,7 @@
 🛠️ Technical Skills
 - **SIEM & Security Monitoring**: Microsoft Sentinel, IBM QRadar, Splunk
 - **Endpoint Security**: Microsoft Defender, SentinelOne, Carbon Black
-- **Scripting & Query Languages**: Python, Kusto Query Language (KQL)
+- **Scripting & Query Languages**: Python (learning), Kusto Query Language (KQL)
 - **Vulnerability Management**: Nessus
 - **Security Concepts**: Incident Response, Threat Detection, Vulnerability Assessment, MITRE ATT&CK, 
 
