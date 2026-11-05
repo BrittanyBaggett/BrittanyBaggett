@@ -2,7 +2,9 @@
 🚀 Cybersecurity Professional
 
 ## ⚡ Cybersecurity Projects:
-[SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) - Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
+**Python**
+- [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser.git) - Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
+- [Windows Security Event Log Analyzer](https://github.com/BrittanyBaggett/windows-security-log-analyzer.git) - Python-based Windows Security Event Log analyzer using regex and Counter to identify and summarize failed authentication events.
 
 [Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git) - Hands-on Microsoft Azure security lab focused on configuring role-based access control (RBAC), Azure Key Vault, and backup policies to support cloud security best practices.
 
