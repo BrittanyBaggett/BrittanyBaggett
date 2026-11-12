@@ -7,7 +7,11 @@
 - [Windows Security Event Log Analyzer](https://github.com/BrittanyBaggett/windows-security-log-analyzer) - Python-based Windows Security Event Log analyzer using regex and Counter to identify and summarize failed authentication events.
 - [SHA256-File-Integrity-Checker](https://github.com/BrittanyBaggett/SHA256-File-Integrity-Checker) - A Python-based file integrity checker that calculates and compares SHA-256 hashes of two files to determine whether their contents match.
 
-[Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git) - Hands-on Microsoft Azure security lab focused on configuring role-based access control (RBAC), Azure Key Vault, and backup policies to support cloud security best practices.
+**Cybersecurity Awareness & Threat Analysis**
+- [Microsoft CyberSHEcurity Challenge](https://github.com/BrittanyBaggett/Microsoft-CyberSHEcurity-Challenge) - Cybersecurity awareness challenge covering phishing detection, social engineering, identity protection and data security.
+
+**Cloud Security & Identity Management.**
+- [Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git) - Hands-on Microsoft Azure security lab focused on configuring role-based access control (RBAC), Azure Key Vault, and backup policies to support cloud security best practices.
 
 ## 🛠️ Technical Skills
 - **SIEM & Security Monitoring**: Microsoft Sentinel, IBM QRadar, Splunk
