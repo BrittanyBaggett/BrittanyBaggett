@@ -11,7 +11,7 @@
 - [Microsoft CyberSHEcurity Challenge](https://github.com/BrittanyBaggett/Microsoft-CyberSHEcurity-Challenge) - Cybersecurity awareness challenge covering phishing detection, social engineering, identity protection and data security.
 
 **Governance, Risk & Compliance (GRC)**
-- [Cybersecurity Management Plan] - (https://github.com/BrittanyBaggett/cybersecurity-management-plan) -Conducted a cybersecurity risk and compliance assessment, identifying security gaps and vulnerabilities, recommending mitigation strategies, and developing security policies, incident response procedures, and business continuity plans aligned with NIST, PCI DSS, and GDPR.
+- [Cybersecurity Management Plan](https://github.com/BrittanyBaggett/cybersecurity-management-plan) -Conducted a cybersecurity risk and compliance assessment, identifying security gaps and vulnerabilities, recommending mitigation strategies, and developing security policies, incident response procedures, and business continuity plans aligned with NIST, PCI DSS, and GDPR.
 
 **Cloud Security & Identity Management.**
 - [Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git) - Hands-on Microsoft Azure security lab focused on configuring role-based access control (RBAC), Azure Key Vault, and backup policies to support cloud security best practices.
