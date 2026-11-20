@@ -1,5 +1,7 @@
 # Hi, I'm Brittany!  
-🚀 Cybersecurity Professional
+🚀 Cybersecurity Analyst | Security Operations
+
+Cybersecurity professional with hands-on experience in network and endpoint security monitoring, incident investigation, threat detection, and vulnerability management. Currently expanding my technical skills in custom detection rule development, Splunk SPL, SIEM engineering, and Python-based security automation through hands-on homelabs.
 
 ## ⚡ Cybersecurity Projects:
 **Security Monitoring & Detection Engineering**
@@ -22,9 +24,9 @@
 ## 🛠️ Technical Skills
 - **SIEM & Security Monitoring**: Microsoft Sentinel, IBM QRadar, Splunk
 - **Endpoint Security**: Microsoft Defender, SentinelOne, Carbon Black
-- **Scripting & Query Languages**: Python (learning), Search Processing Language (SPL)(learning), Kusto Query Language (KQL)
+- **Scripting & Query Languages**: Python, Search Processing Language (SPL), Kusto Query Language (KQL)
 - **Vulnerability Management**: Nessus
-- **Security Concepts**: Incident Response, Threat Detection, Vulnerability Assessment, MITRE ATT&CK, 
+- **Security Concepts**: Incident Response, Threat Detection, Vulnerability Assessment, MITRE ATT&CK
 
 ## 💼 Professional Experience:
 **SOC Analyst - Cytellix**  
