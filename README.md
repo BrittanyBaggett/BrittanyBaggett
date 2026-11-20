@@ -29,7 +29,7 @@ Cybersecurity professional with hands-on experience in network and endpoint secu
 - **Security Concepts**: Incident Response, Threat Detection, Vulnerability Assessment, MITRE ATT&CK
 
 ## 💼 Professional Experience:
-**SOC Analyst - Cytellix**  
+**SOC Analyst| Cytellix | February 2024–Present** 
 - Investigate and triage 100+ weekly security alerts across enterprise client environments, analyzing endpoint, authentication, and network activity for suspicious behavior and potential security incidents.
 - Conduct vulnerability assessments using Nessus and analyze security telemetry using SIEM and EDR platforms to identify threats, vulnerabilities, and potential security control weaknesses.
 - Develop investigation documentation, incident summaries, and remediation recommendations to support security operations and continuous monitoring.
