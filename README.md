@@ -2,6 +2,9 @@
 🚀 Cybersecurity Professional
 
 ## ⚡ Cybersecurity Projects:
+**Security Monitoring & Detection Engineering**
+- [Splunk Homelab](https://github.com/BrittanyBaggett/splunk-siem-homelab) -  Hands-on security monitoring lab using Splunk Enterprise and Universal Forwarder to collect and analyze Windows Event Logs, develop SPL-based detection rules, and integrate custom Python file modification logs for centralized security monitoring.
+
 **Python**
 - [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser) - Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
 - [Windows Security Event Log Analyzer](https://github.com/BrittanyBaggett/windows-security-log-analyzer) - Python-based Windows Security Event Log analyzer using regex and Counter to identify and summarize failed authentication events.
