@@ -3,18 +3,18 @@
 
 ## ⚡ Cybersecurity Projects:
 **Security Monitoring & Detection Engineering**
-- [Splunk Homelab](https://github.com/BrittanyBaggett/splunk-siem-homelab) -  Hands-on security monitoring lab using Splunk Enterprise and Universal Forwarder to collect and analyze Windows Event Logs, develop SPL-based detection rules, and integrate custom Python file modification logs for centralized security monitoring.
+- [Splunk Homelab](https://github.com/BrittanyBaggett/splunk-siem-homelab) -  Hands-on security monitoring lab using Splunk Enterprise to collect and analyze Windows Event Logs, develop SPL-based detection rules, and integrate custom Python file modification logs for security monitoring.
 
 **Python**
-- [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser) - Python-based security log parser using regular expressions to extract authentication events and identify entries exceeding a defined attempt threshold.
-- [Windows Security Event Log Analyzer](https://github.com/BrittanyBaggett/windows-security-log-analyzer) - Python-based Windows Security Event Log analyzer using regex and Counter to identify and summarize failed authentication events.
-- [SHA256-File-Integrity-Checker](https://github.com/BrittanyBaggett/SHA256-File-Integrity-Checker) - A Python-based file integrity checker that calculates and compares SHA-256 hashes of two files to determine whether their contents match.
+- [SSH Authentication Log Parser ](https://github.com/BrittanyBaggett/ssh-auth-log-parser) - Parses SSH authentication logs using regex to extract events and identify repeated authentication attempts.
+- [Windows Security Event Log Analyzer](https://github.com/BrittanyBaggett/windows-security-log-analyzer) - Analyzes Windows authentication events using Python regex and Counter to summarize failed logins.
+- [SHA256-File-Integrity-Checker](https://github.com/BrittanyBaggett/SHA256-File-Integrity-Checker) - Calculates and compares SHA-256 file hashes to identify changes in file contents.
 
 **Cybersecurity Awareness & Threat Analysis**
 - [Microsoft CyberSHEcurity Challenge](https://github.com/BrittanyBaggett/Microsoft-CyberSHEcurity-Challenge) - Cybersecurity awareness challenge covering phishing detection, social engineering, identity protection and data security.
 
 **Governance, Risk & Compliance (GRC)**
-- [Cybersecurity Management Plan](https://github.com/BrittanyBaggett/cybersecurity-management-plan) - Conducted a cybersecurity risk and compliance assessment, identifying security gaps and vulnerabilities, recommending mitigation strategies, and developing security policies, incident response procedures, and business continuity plans aligned with NIST, PCI DSS, and GDPR.
+- [Cybersecurity Management Plan](https://github.com/BrittanyBaggett/cybersecurity-management-plan) - Assessed security and compliance gaps and developed mitigation strategies, security policies, incident response procedures, and business continuity plans aligned with NIST, PCI DSS, and GDPR.
 
 **Cloud Security & Identity Management.**
 - [Azure Cloud Security Lab](https://github.com/BrittanyBaggett/Azure-Cloud-Security-Lab.git) - Hands-on Microsoft Azure security lab focused on configuring role-based access control (RBAC), Azure Key Vault, and backup policies to support cloud security best practices.
